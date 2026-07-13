@@ -86,13 +86,13 @@ My interests lie at the intersection of **software engineering, mathematics, dat
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-Dewey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   alt="GitHub statistics"
 />
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-Dewey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook"
   alt="Most used languages"
 />
 
@@ -100,7 +100,7 @@ My interests lie at the intersection of **software engineering, mathematics, dat
 
 <img
   width="70%"
-  src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=AIVIETNAM-AIO-Dewey&theme=tokyonight&hide_border=true"
   alt="GitHub contribution streak"
 />
 
@@ -119,21 +119,21 @@ My interests lie at the intersection of **software engineering, mathematics, dat
   />
 </a>
 
-<a href="YOUR_FACEBOOK_URL">
+<a href="https://www.facebook.com/yudnavel2006/">
   <img
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
     alt="Facebook"
   />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/duylevan/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AIVIETNAM-AIO-Dewey">
   <img
     src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
