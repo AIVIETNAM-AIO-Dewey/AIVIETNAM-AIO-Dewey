@@ -12,7 +12,7 @@
 </p>
 
 <img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square"
+  src="https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-Dewey&label=Profile%20Views&color=58A6FF&style=flat-square"
   alt="Profile views"
 />
 
