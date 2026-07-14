@@ -84,17 +84,27 @@ My interests lie at the intersection of **software engineering, mathematics, dat
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=AIVIETNAM-AIO-Dewey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  alt="GitHub statistics"
-/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=AIVIETNAM-AIO-Dewey&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-Dewey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook"
-  alt="Most used languages"
-/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=AIVIETNAM-AIO-Dewey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
+    alt="Most Used Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=AIVIETNAM-AIO-Dewey&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
 
 <br/>
 
