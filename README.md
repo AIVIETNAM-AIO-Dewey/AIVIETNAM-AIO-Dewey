@@ -106,15 +106,6 @@ My interests lie at the intersection of **software engineering, mathematics, dat
 
 </div>
 
-<br/>
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com/?user=AIVIETNAM-AIO-Dewey&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-
-</div>
 
 ---
 
